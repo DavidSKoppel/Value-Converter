@@ -1,0 +1,19 @@
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\bin\Debug\netcoreapp3.1\Valuta Converter.exe
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\bin\Debug\netcoreapp3.1\Valuta Converter.deps.json
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\bin\Debug\netcoreapp3.1\Valuta Converter.runtimeconfig.json
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\bin\Debug\netcoreapp3.1\Valuta Converter.runtimeconfig.dev.json
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\bin\Debug\netcoreapp3.1\Valuta Converter.dll
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\bin\Debug\netcoreapp3.1\Valuta Converter.pdb
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.csprojAssemblyReference.cache
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter_MarkupCompile.cache
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter_MarkupCompile.lref
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.g.resources
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.AssemblyInfoInputs.cache
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.AssemblyInfo.cs
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.csproj.CoreCompileInputs.cache
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.dll
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.pdb
+C:\Users\koppe\source\repos\Valuta Converter\Valuta Converter\obj\Debug\netcoreapp3.1\Valuta Converter.genruntimeconfig.cache
